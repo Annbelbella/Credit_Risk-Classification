@@ -1,4 +1,3 @@
-# Credit_Risk-Classification
 
 ![image](https://github.com/Annbelbella/Credit_Risk-Classification/assets/124645643/1dc9c378-73f1-4395-bfe9-834135d05834)
 
