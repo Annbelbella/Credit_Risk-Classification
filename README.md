@@ -4,7 +4,7 @@
 This project is based on the use of various techniques to train and evaluate a model based on loan risk to build a model that can identify the creditworthiness of borrowers.
 
 ## Purpose
-The dataset comes from a financial institution and includes a number of features for users who currently have or don’t have loans. The classification goal is to predict a healthy loan (0/0) or a high risk loan (1/0).
+The dataset comes from a financial institution and includes a number of features for users who currently have loans. The classification goal is to predict a healthy loan (0/0) or a high risk loan (1/0).
 
 For our y variable(target), we have a very imbalanced sample. The value count is shown below;
 - 0	- 75036
