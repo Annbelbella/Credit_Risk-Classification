@@ -18,6 +18,7 @@ For the machine learning process, we split our data into train set and test set 
 
 ## Fitting logistic regression
 Essentially, predicting if a loan is considered high risk or not is a classification task. Our dataset contains more instances that correspond to "a healthy loan" status than instances corresponding to "risky loan" status. Specifically, out of 690 instances, there are 75036 (96.7%) applications that are healthy loans and 2500 (0.032%) applications that are risky loans. 
+
 ![image](https://github.com/Annbelbella/Credit_Risk-Classification/assets/124645643/460a9416-5b4e-42ad-8896-907c10d469a1)
 
 ### Performance of the Model 
