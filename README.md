@@ -54,7 +54,7 @@ Resampling helps to generate new data points in the dataset by randomly picking 
 
 
 
-# Conclusion
+# Summary
 Based on the above factors, the "logistic regression model fit with oversampled data" would be preferred over the "logistic regression model fit with the original data. This is because after resampling, the second model performs better. We do see the number of false negatives significantly declining from 67 to 2. The false positives are also more by 11 in the second model than the first model. Our most undesirable outcome for these models is having someone predicted negative when they are actually a high-risk defaulter. The second model limits that.
 
 The second model also has a slightly better accuracy than the first model 
