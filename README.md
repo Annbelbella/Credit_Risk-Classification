@@ -61,7 +61,7 @@ The second model also has a slightly better accuracy than the first model
 
 It is more important to predict a high risk loan(1) than a none risk one because those are the ones which put a financial institution at risk.
 
-
+**.....................................................................................................................................**
 
 
 
