@@ -62,6 +62,9 @@ The second model also has a slightly better accuracy than the first model
 It is more important to predict a high risk loan(1) than a none risk one because those are the ones which put a financial institution at risk.
 
 
+
+
+
 # Project Outline
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
